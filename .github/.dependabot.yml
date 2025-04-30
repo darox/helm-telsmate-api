@@ -1,0 +1,6 @@
+version: 2
+updates:
+  - package-ecosystem: "docker"
+    directory: "charts/teslamate-api"
+    schedule:
+      interval: "weekly"
