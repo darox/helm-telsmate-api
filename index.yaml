@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  teslamate-api:
+  - apiVersion: v2
+    appVersion: 1.20.2
+    created: "2025-04-30T06:41:56.799167518Z"
+    description: A Helm chart for deploying teslamate-api on Kubernetes
+    digest: f4453e9bcd1ce26b7526322a105c9acbf7792b1d653de34541229d28e404917e
+    name: teslamate-api
+    type: application
+    urls:
+    - https://github.com/darox/helm-telsmate-api/releases/download/teslamate-api-1.0.0/teslamate-api-1.0.0.tgz
+    version: 1.0.0
+generated: "2025-04-30T06:41:56.799177908Z"
