@@ -4,7 +4,7 @@
 
 1. Add the Helm repository:
     ```
-    helm repo add teslamate-api https://darox.github.io/helm-telsmate-api
+    helm repo add teslamate-api https://darox.github.io/helm-teslamate-api
     ``` 
 2. Install the chart:
     ```
